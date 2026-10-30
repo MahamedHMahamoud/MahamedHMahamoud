@@ -1,6 +1,7 @@
 # Mahamed H Mahamoud
 
-**DevSecOps · Self-taught programmer, 40 years**
+**DevSecOps · Self-taught programmer, 40 years. Studied System development and Cybersecurity.**
+
 Founder of [erfirmaekte.no](https://erfirmaekte.no) & [cyberintel.no](https://cyberintel.no)
 
 I'm a self-taught programmer and have written code for 40 years, since I was 16.
