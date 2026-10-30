@@ -2,7 +2,17 @@
 
 **DevSecOps · Self-taught programmer, 40 years. Studied System development and Cybersecurity.**
 
-Founder of [erfirmaekte.no](https://erfirmaekte.no) & [cyberintel.no](https://cyberintel.no)
+Founder of:
+[erfirmaekte.no](https://erfirmaekte.no) 
+  - Anti fraud page, where users can verify if a company is legitimate and registered in the
+    Norwegian Company Register.
+  - Beginner cybersecurity guide for everyday users
+    
+[cyberintel.no](https://cyberintel.no)
+  - Latest Cybersecurity news
+  - Latest CVE, CISA KEV, NVD, EPSS, CVSS, CWE, CPE.
+  - Cybersecurity 101 page for students
+  - Cyber dictionary
 
 I'm a self-taught programmer and have written code for 40 years, since I was 16.
 
